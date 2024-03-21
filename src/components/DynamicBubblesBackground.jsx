@@ -27,7 +27,7 @@ const DynamicBubblesBackground = () => {
         return (
           <div
             key={bubble.name}
-            className={`absolute rounded-full bg-cover bg-center z-0`}
+            className={`absolute rounded-full bg-cover bg-center z-0 bg-black`}
             style={{
               width: `${bubble.size}px`,
               height: `${bubble.size}px`,
