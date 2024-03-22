@@ -1,24 +1,24 @@
 export const HEADER_ITEMS = [
-  {
-    label: "Home",
-    href: "/",
-  },
-  {
-    label: "Network",
-    href: "#",
-  },
-  {
-    label: "Use Cases",
-    href: "#",
-  },
-  {
-    label: "Governance",
-    href: "#",
-  },
-  {
-    label: "Learn about TBH",
-    href: "#",
-  },
+  // {
+  //   label: "Home",
+  //   href: "/",
+  // },
+  // {
+  //   label: "Network",
+  //   href: "#",
+  // },
+  // {
+  //   label: "Use Cases",
+  //   href: "#",
+  // },
+  // {
+  //   label: "Governance",
+  //   href: "#",
+  // },
+  // {
+  //   label: "Learn about TBH",
+  //   href: "#",
+  // },
 ];
 
 export const LOGOS = [
@@ -37,11 +37,11 @@ export const LOGOS = [
     src: "/Plugg.webp",
     alt: "Plugg",
   },
-  {
-    name: "TBN",
-    src: "/TBN.webp",
-    alt: "TBN",
-  },
+  // {
+  //   name: "TBN",
+  //   src: "/TBN.webp",
+  //   alt: "TBN",
+  // },
   {
     name: "fando",
     src: "/fando.webp",
@@ -57,11 +57,11 @@ export const LOGOS = [
     src: "/Celcomdigi.webp",
     alt: "Celcomdigi",
   },
-  {
-    name: "ENKRYPTED",
-    src: "/ENKRYPTED.webp",
-    alt: "ENKRYPTED",
-  },
+  // {
+  //   name: "ENKRYPTED",
+  //   src: "/ENKRYPTED.webp",
+  //   alt: "ENKRYPTED",
+  // },
 ];
 
 export const FEATURES = [
@@ -156,24 +156,24 @@ export const GET_STARTED_ITEMS = [
 ];
 
 export const FOOTER_ITEMS = [
-    {
-        title: "Home",
-        url: "#"
-    },
-    {
-        title: "Network",
-        url: "#"
-    },
-    {
-        title: "Use Cases",
-        url: "#"
-    },
-    {
-        title: "Governance",
-        url: "#"
-    },
-    {
-        title: "Learn about TBH",
-        url: "#"
-    },
+    // {
+    //     title: "Home",
+    //     url: "#"
+    // },
+    // {
+    //     title: "Network",
+    //     url: "#"
+    // },
+    // {
+    //     title: "Use Cases",
+    //     url: "#"
+    // },
+    // {
+    //     title: "Governance",
+    //     url: "#"
+    // },
+    // {
+    //     title: "Learn about TBH",
+    //     url: "#"
+    // },
 ]
